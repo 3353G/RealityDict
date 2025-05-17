@@ -28,9 +28,6 @@
 
 ```bash
 pip install tqdm colorama
-
----
-
 ```
 在终端输入以下：
 ```bash
